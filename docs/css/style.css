@@ -169,7 +169,7 @@ a:active {
   .heading-border {
       width: 60px;
       height: 10px;
-      background-color: #2196f3;
+      background-color: #2C3E4C;
       margin: 0 auto 20px auto;
   }
 
@@ -200,7 +200,7 @@ a:active {
   }
 
   .bg-primary {
-      background-color: rgba(133, 100, 4, 1) !important;
+      background-color: #2C3E4C !important;
   }
 
   .text-primary {
@@ -211,7 +211,7 @@ a:active {
                       ABOUT
 ====================================================*/
   #about {
-      background-image: url(../img/me.jpg);
+      background-image: url(../img/profile-background.jpg);
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
@@ -561,7 +561,7 @@ a:active {
 ======================================================*/
 
 #skills {
-    background-image: url("../img/bg-stats.jpg");
+    background-image: url("../img/AI-Programming.jpeg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
